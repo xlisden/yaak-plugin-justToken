@@ -7,7 +7,7 @@ El fin de este plugin es agilizar el proceso de copiar el token de una respuesta
 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/gabz-23/justToken-yaak-plugin.git
+git clone https://github.com/gabz-23/yaak-plugin-justToken
 ```
 
 2. Instalar los node_modules
